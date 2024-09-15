@@ -1,1 +1,2 @@
 # StarbucksClone
+![](/StarbucksClone.gif)
